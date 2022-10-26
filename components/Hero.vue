@@ -1,7 +1,7 @@
 <template>
   <div class="mx-auto text-center max-w-container px-4 pt-12 lg:px-8">
     <div class="relative z-20 mx-auto pb-16 pt-16 lg:w-[60rem]">
-      <div class="mt-32 text-8xl font-extrabold text-black">
+      <div class="mt-32 text-8xl font-extrabold text-black animate-slideDown">
         Schedule <br />
         like a God!
       </div>
